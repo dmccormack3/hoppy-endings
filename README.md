@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
+## Deploying 
+If not already installed
+`
+  ng add angular-cli-ghpages
+`
+Then
+`
+npm run build
+ ng deploy --repo=https://github.com/dmccormack3/hoppy-endings
+`
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
