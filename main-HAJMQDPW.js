@@ -50,6 +50,7 @@ ${n.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
     font-family: "Inter Tight", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
       Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
       "Segoe UI Symbol";
+
   }
 
   p[_ngcontent-%COMP%] {
